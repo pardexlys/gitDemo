@@ -19,6 +19,6 @@ public class User {
 
     private String phoneNum;
 
-    private String weight;
+    private boolean weight;
     
 }
