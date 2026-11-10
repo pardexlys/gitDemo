@@ -19,6 +19,6 @@ public class User {
 
     private Long phoneNum;
 
-    private String weight;
-    
+    private int weight;
+
 }
