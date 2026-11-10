@@ -17,8 +17,7 @@ public class User {
 
     private Long idCard;
 
-    private Long phoneNum;
+    private String phoneNum;
 
-    private int weight;
-
+    private boolean weight;
 }
